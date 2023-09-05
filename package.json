@@ -1,0 +1,27 @@
+{
+  "name": "seminarium-1",
+  "version": "1.0.0",
+  "description": "calculator",
+  "type": "module",
+  "browser": "src/index.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upend0/seminarium-1.git"
+  },
+  "author": "Maddelen Hedenström, Maria Fredriksson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upend0/seminarium-1/issues"
+  },
+  "homepage": "https://github.com/upend0/seminarium-1#readme",
+  "dependencies": {
+    "vite": "^4.4.9"
+  }
+}
